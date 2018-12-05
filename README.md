@@ -2,5 +2,7 @@
 
 Aplicación uno de nodeJS 
 
-ejecutar npm -install
-
+ejecutar 
+```
+npm -install
+```
